@@ -1,4 +1,4 @@
-# remove_dulplicates
+# remove_duplicates
 
 pull from the repo.
 
